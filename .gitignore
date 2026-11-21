@@ -43,5 +43,9 @@ Video demostración segder.mp4
 src/client/downloads/*
 !src/client/downloads/.gitkeep
 
+# Content server media directory (keep folder via .gitkeep)
+src/content_server/media/*
+!src/content_server/media/.gitkeep
+
 # Local legacy folder
 Proyecto nuestro/
